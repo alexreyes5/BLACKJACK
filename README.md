@@ -44,6 +44,6 @@ Alexander Reyes
 step 1 
 ## Screenshot
 
-![Blackjack Game](BJ screenshot1.png)
+![Blackjack Game](BJ%20screenshot1.png)
 
 Alex Reyes
