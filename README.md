@@ -41,4 +41,9 @@ Additional game stats
 Author
 Alexander Reyes
 
+step 1 
+## Screenshot
+
+![Blackjack Game](BJ screenshot1.png)
+
 Alex Reyes
