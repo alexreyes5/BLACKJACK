@@ -1,6 +1,6 @@
 # BLACKJACK
 ABOUT: Terminal Blackjack game built in Java using OOP. Special as it is my first project on what I hope to be the start of a skilled programmer/engineer one day.
-Project was created right after I finished COMP 110, and wanted to immediately start learning other advanced topics such as ArrayList, which is included in Blackjack.
+Project was created right after I finished COMP 110, and wanted to immediately start learning other advanced topics such as ArrayList, which is included in Blackjack. (For this project, Ace is currently set to 11.)
 
 FEATURES
 - Custom player name input
