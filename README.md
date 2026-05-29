@@ -41,9 +41,18 @@ Additional game stats
 Author
 Alexander Reyes
 
-step 1 
-## Screenshot
+
+## SC 1
 
 ![Blackjack Game](BJ%20screenshot1.png)
+
+## SC 2
+
+![Blackjack Game](BJ%20screenshot2.png)
+## SC 3
+
+![Blackjack Game](BJ%20screenshotfinal.png)
+
+
 
 Alex Reyes
