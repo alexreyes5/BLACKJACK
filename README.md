@@ -42,16 +42,16 @@ Author
 Alexander Reyes
 
 
-## SC 1
+## SCREENSHOT 1
 
 ![Blackjack Game](BJ%20screenshot1.png)
 
-## SC 2
+## SCREENSHOT 2
 
 ![Blackjack Game](BJ%20screenshot2.png)
-## SC 3
+## SCREENSHOT 3
 
-![Blackjack Game](BJ%20screenshotfinal.png)
+![Blackjack Game](BJ%20screenshot%20final.png)
 
 
 
